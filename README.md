@@ -31,13 +31,18 @@ This project presents a Mobile Sales Dashboard developed using Microsoft Power B
 ## Dashboard Screenshots
 
 ![Dashboard 1](Mobile-Dashboard-01.png)
-![Dashboard 2](Mobile-Dashboard-02.png)
-![Dashboard 3](Mobile-Dashboard-03.png)
-![Dashboard 4](Mobile-Dashboard-04.png)
-![Dashboard 5](Mobile-Dashboard-05.png)
-![Dashboard 6](Mobile-Dashboard-06.png)
-![Dashboard 7](Mobile-Dashboard-07.png)
 
+![Dashboard 2](Mobile-Dashboard-02.png)
+
+![Dashboard 3](Mobile-Dashboard-03.png)
+
+![Dashboard 4](Mobile-Dashboard-04.png)
+
+![Dashboard 5](Mobile-Dashboard-05.png)
+
+![Dashboard 6](Mobile-Dashboard-06.png)
+
+![Dashboard 7](Mobile-Dashboard-07.png)
 ## AI Assistance
 AI tools were used to assist with improving the dashboard's colour scheme and visual presentation.
 
